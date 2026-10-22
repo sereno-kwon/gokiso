@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>GOKISO KOREA</title>
+<meta name="robots" content="noindex">
+<script>
+  // 하위 주소(/super-climber, /en/climber, /ja/slp ...)를 원페이지 섹션으로 연결
+  // github.io 미리보기(/gokiso/)와 서브도메인(gokiso.rubiworkshop.com/) 모두 동작
+  var base = location.hostname.slice(-10) === 'github.io' ? '/gokiso/' : '/';
+  var parts = location.pathname.slice(base.length).replace(/\/$/, '').toLowerCase().split('/');
+  var lang = (parts[0] === 'en' || parts[0] === 'ja') ? parts.shift() + '/' : '';
+  var key = parts.join('/');
+  var alias = { 'super-climber':'superclimber', 'super':'superclimber', 'sc':'superclimber', 'climber-s':'climber', 'disc':'climber', 'through-axle':'climber', 'moulton':'small', 'brompton':'small', 'birdy':'small', 'mini':'small', 'small-wheels':'small', 'slp':'wheel', 'wheels':'wheel', 'wheelset':'wheel', 'gd2':'wheel', 'about':'brand', 'technology':'tech', 'contact':'showroom', 'dealer':'showroom', 'shop':'showroom' };
+  var map = { brand:1, superclimber:1, climber:1, tech:1, small:1, wheel:1, showroom:1 };
+  key = alias[key] || key;
+  location.replace(base + lang + (map[key] ? '#' + key : ''));
+</script>
+<style>body{background:#f3f3f0}</style>
+</head>
+<body></body>
+</html>

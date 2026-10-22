@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gokiso.rubiworkshop.com/sitemap.xml
