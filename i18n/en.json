@@ -6,8 +6,6 @@
   "fonts": "family=Roboto:ital,wdth,wght@0,75..100,100..900;1,75..100,100..900&display=swap"
  },
  "strings": {
-  "고키소 코리아 | GOKISO": "GOKISO Korea",
-  "고키소 코리아": "GOKISO Korea",
   "고키소": "GOKISO",
   "고키소(GOKISO)는 항공기 제트엔진 베어링을 만드는 일본 콘도 머신의 자전거 허브·휠 브랜드입니다. 슈퍼 클라이머, 클라이머 허브와 SLP 카본 휠, 몰튼·브롬톤·버디 전용 허브를 루비워크샵에서 만나보세요.": "GOKISO is the bicycle hub and wheel brand of Kondo Machine, a Japanese maker of jet engine bearings. Super Climber and Climber hubs, SLP carbon wheels and hubs for Moulton, Brompton and Birdy, at Rubi Workshop in Seoul.",
   "고키소,GOKISO,고키소 허브,슈퍼 클라이머,Super Climber,클라이머 허브,Climber Hub,쓰루액슬 디스크 허브,SLP 휠,고키소 휠,몰튼 허브,브롬톤 허브,버디 허브,콘도 머신,Kondo Machine,루비워크샵,루비서플라이": "GOKISO,Gokiso hub,Super Climber,Climber Hub,through axle disc hub,SLP wheel,Gokiso wheel,Moulton hub,Brompton hub,Birdy hub,Kondo Machine,Rubi Workshop,Rubi Supply,Korea",
@@ -211,7 +209,6 @@
   "통신판매번호": "Mail-order Reg. No.",
   "고객센터": "Customer service",
   "이메일": "Email",
-  "Copyright ⓒ 2026 고키소 코리아 | GOKISO All rights reserved.": "Copyright ⓒ 2026 GOKISO Korea. All rights reserved.",
   "신반포로 320 루비빌딩": "Rubi Building, 320 Sinbanpo-ro",
   "서초구": "Seocho-gu",
   "서울특별시": "Seoul",
@@ -220,7 +217,10 @@
   "고키소 휠 상담하기 →": "BOOK A WHEEL CONSULTATION →",
   "고키소 교체식 프리허브 바디": "GOKISO interchangeable freehub bodies",
   "휠을 풀지 않고 바꾸는 프리허브": "A freehub you swap without unlacing the wheel",
-  "시마노와 캄파놀로, SRAM XDR 프리허브 바디를 고키소 전용 공구로 교체합니다. 휠을 풀 필요가 없어 구동계를 바꿔도 허브는 그대로 씁니다. 구면 너트와 와셔는 프레임 엔드가 완전히 평행하지 않아도 액슬을 곧게 잡아 줍니다.": "Shimano, Campagnolo and SRAM XDR freehub bodies are swapped with the GOKISO tool. The wheel stays laced, so the hub carries over when the drivetrain changes. Spherical nuts and washers keep the axle straight even when the dropouts are not perfectly parallel."
+  "시마노와 캄파놀로, SRAM XDR 프리허브 바디를 고키소 전용 공구로 교체합니다. 휠을 풀 필요가 없어 구동계를 바꿔도 허브는 그대로 씁니다. 구면 너트와 와셔는 프레임 엔드가 완전히 평행하지 않아도 액슬을 곧게 잡아 줍니다.": "Shimano, Campagnolo and SRAM XDR freehub bodies are swapped with the GOKISO tool. The wheel stays laced, so the hub carries over when the drivetrain changes. Spherical nuts and washers keep the axle straight even when the dropouts are not perfectly parallel.",
+  "GOKISO | 루비워크샵": "GOKISO | Rubi Workshop",
+  "루비워크샵 고키소": "Rubi Workshop GOKISO",
+  "Copyright ⓒ 2026 루비워크샵 | Rubi Workshop All rights reserved.": "Copyright ⓒ 2026 Rubi Workshop. All rights reserved."
  },
  "patterns": [
   [

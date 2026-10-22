@@ -1,4 +1,4 @@
-# GOKISO Korea
+# GOKISO | Rubi Workshop
 
 gokiso.rubiworkshop.com 원페이지 정적 사이트 (GitHub Pages). crustbikes.co.kr, parleecycles.co.kr, bastioncycles.co.kr, tsubasabicycles.co.kr과 같은 구조입니다.
 
