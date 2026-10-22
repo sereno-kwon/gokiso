@@ -149,7 +149,7 @@ def render(code):
     out = out.replace(f'<meta property="og:url" content="{SITE}">', f'<meta property="og:url" content="{SITE}{m["path"]}">')
     out = out.replace('content="ko_KR"', f'content="{m["locale"]}"')
     out = out.replace('"inLanguage": "ko-KR"', f'"inLanguage": "{m["lang"]}"')
-    out = re.sub(r"family=Archivo[^\"]*display=swap", m["fonts"], out, count=1)
+    out = re.sub(r"family=Roboto[^\"]*display=swap", m["fonts"], out, count=1)
     # 하위 폴더에서 이미지 경로
     out = re.sub(r'((?:src|href)=")images/', r"\1../images/", out)
     out = out.replace("url(images/", "url(../images/")

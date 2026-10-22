@@ -3,7 +3,7 @@
   "lang": "ja",
   "locale": "ja_JP",
   "path": "ja/",
-  "fonts": "family=Archivo:ital,wdth,wght@0,62..125,300..900;1,62..125,400..700&family=Noto+Sans+JP:wght@300;400;700&display=swap"
+  "fonts": "family=Roboto:ital,wdth,wght@0,75..100,100..900;1,75..100,100..900&family=Noto+Sans+JP:wght@300;400;700&display=swap"
  },
  "strings": {
   "고키소 코리아 | GOKISO": "GOKISO Korea | ゴキソ コリア",
