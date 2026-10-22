@@ -125,9 +125,7 @@
   "고키소 플로팅 구조": "GOKISO floating structure",
   "베어링에 힘이 닿지 않는 플로팅 구조": "A floating structure that keeps loads off the bearings",
   "플랜지가 바디 셸과 분리된 플로팅 설계입니다. 노면 충격과 프레임의 뒤틀림이 중간에서 흡수되어 액슬이 항상 곧게 유지됩니다. 제트엔진 주축 베어링의 탄성 지지 구조와 같은 원리입니다.": "The flanges float, separated from the body shell. Road shock and frame twist are absorbed in between, so the axle always stays straight. It is the same principle as the elastic support of a jet engine main shaft bearing.",
-  "고키소 구면 너트와 와셔": "GOKISO spherical nut and washer",
   "구면 너트와 와셔": "Spherical nut and washer",
-  "QR이나 쓰루액슬로 휠을 조일 때 프레임 엔드가 완전히 평행하지 않아도, 구면 너트와 와셔가 각도를 보정해 액슬이 휘지 않게 합니다. 베어링이 늘 같은 정렬로 도는 마지막 조건입니다.": "Even when the dropouts are not perfectly parallel as the QR or through axle is tightened, the spherical nut and washer compensate for the angle so the axle does not bend. It is the final condition for bearings that always turn in the same alignment.",
   "몰튼 · 브롬톤 · 버디 전용 허브": "HUBS FOR MOULTON · BROMPTON · BIRDY",
   "작은 휠일수록": "The smaller the wheel,",
   "허브의 회전이": "the more you feel",
@@ -219,7 +217,10 @@
   "서울특별시": "Seoul",
   "월~금 12:00~18:00": "Mon–Fri 12:00–18:00",
   "1551-5320 (월~금 12:00~18:00)": "+82-1551-5320 (Mon–Fri 12:00–18:00, KST)",
-  "고키소 휠 상담하기 →": "BOOK A WHEEL CONSULTATION →"
+  "고키소 휠 상담하기 →": "BOOK A WHEEL CONSULTATION →",
+  "고키소 교체식 프리허브 바디": "GOKISO interchangeable freehub bodies",
+  "휠을 풀지 않고 바꾸는 프리허브": "A freehub you swap without unlacing the wheel",
+  "시마노와 캄파놀로, SRAM XDR 프리허브 바디를 고키소 전용 공구로 교체합니다. 휠을 풀 필요가 없어 구동계를 바꿔도 허브는 그대로 씁니다. 구면 너트와 와셔는 프레임 엔드가 완전히 평행하지 않아도 액슬을 곧게 잡아 줍니다.": "Shimano, Campagnolo and SRAM XDR freehub bodies are swapped with the GOKISO tool. The wheel stays laced, so the hub carries over when the drivetrain changes. Spherical nuts and washers keep the axle straight even when the dropouts are not perfectly parallel."
  },
  "patterns": [
   [
